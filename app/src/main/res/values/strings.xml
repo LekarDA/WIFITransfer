@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WIFITransfer</string>
+    <string name="tab_text_1">Server</string>
+    <string name="tab_text_2">Client</string>
+    <string name="tab_text_3">Files</string>
+</resources>
